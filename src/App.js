@@ -20,8 +20,6 @@ import {
   Divider,
   Flex,
   Input,
-  InputGroup,
-  InputRightElement,
   Stack,
   Text,
 } from "@chakra-ui/react";
